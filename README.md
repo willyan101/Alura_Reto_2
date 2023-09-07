@@ -1,19 +1,28 @@
 ## Challenge ONE Back End - Java
 Crea tu propio conversor de moneda
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+## Contenido del proyecto:
+En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas utilizando el lenguaje Java. Las características solicitadas por nuestro cliente son las siguientes:
 
-The workspace contains two folders by default, where:
+Requisitos:
+El convertidor de moneda debe:
+      - Convertir de la moneda de tu país a Dólar
+      - Convertir de la moneda de tu país  a Euros
+      - Convertir de la moneda de tu país  a Libras Esterlinas
+      - Convertir de la moneda de tu país  a Yen Japonés
+      - Convertir de la moneda de tu país  a Won sul-coreano
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Notas del codigo
+Ek codigo presente se realizo en javascript mediante el editor de texto Visaul Studio Core.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Mismo proyecto se agregaron caracteristicas como;
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+  -  Conversion de temperaturas:
+  -     Celsius a Fahrenheit (C° a F°)
+  -     Fahrenheit a Celsius (F° a C°)
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+  - Conversion de medicion:
+  -     Metros (Mts) a Kilometros (Kms)
+  -     Metros (Mts) a Pies (Fts)
+  -     Metros (Mts) a Millas (Mi)
