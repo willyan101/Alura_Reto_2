@@ -31,6 +31,8 @@ public class Contenedor {
                     JOptionPane.showMessageDialog(null, "Valor no válido.", "Convesor de Divisas", JOptionPane.WARNING_MESSAGE);
                     return;
                 }
+                //PRUBEA DE GIT
+                
                 //MODIFICAR LOS CAMBIOS DE DIVISAS EN LOS 3ULTIOMOS//
                 if (/*divisa*/ divisa.equals("Pesos (MXN) a Dólares Americanos (USA)")) {
                     double dollars = pesos / 17.51;
